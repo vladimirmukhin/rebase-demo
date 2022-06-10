@@ -1,1 +1,1 @@
-Intial commit to main - append from feature1
+The first commit to main - append from feature1
